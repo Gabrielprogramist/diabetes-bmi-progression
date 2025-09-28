@@ -42,7 +42,7 @@ Installation
 ------------------------------------------------------------
 Clone the repository and install dependencies:
 
-git clone https://github.com/your-username/diabetes-bmi-progression.git
+git clone https://github.com/Gabrielprogramist/diabetes-bmi-progression.git
 cd diabetes-bmi-progression
 
 ------------------------------------------------------------
